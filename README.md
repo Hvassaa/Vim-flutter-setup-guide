@@ -66,7 +66,6 @@ Finally, you should configure the location of the dart LSP-server by adding the 
     "dart": {
       "command": "~/sdk/dartsdk-linux-x64-release/dart-sdk/bin/dart",
       "args": [
-        " change this to the path of analysis_server
         "~/sdk/dartsdk-linux-x64-release/dart-sdk/bin/snapshots/analysis_server.dart.snapshot",
         "--lsp"
       ],
